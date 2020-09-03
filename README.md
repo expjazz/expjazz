@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 🔭 I live in Brazil
 - 🌱 I’m addicted to learning  🤣
 - 👯 I’m looking to collaborate with other developers
-- I'm currently learning NextJs with apollo and GraphQl
-- A part-time Technical Support Engineer at Microverse
+- 🤯 I'm currently learning NextJs with apollo and GraphQl
+- ✌️ A part-time Technical Support Engineer at Microverse
 - 🥅 2020 Goals: Record my solo album
-- Exploring new opportunities
+- 🕵 Exploring new opportunities
 - ⚡ Fun fact: I love to play chess
 
 <div>
