@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Expedito](https://www.expeditoandrade.me) 👋
 
 <a href="https://twitter.com/expeditojazz" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-<a href="https://www.linkedin.com/in/expeditoandradei/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/expeditoandrade/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:expeditojazz@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
 
