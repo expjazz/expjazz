@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play chess
 
 <div>
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=expjazz&layout=compact&show_icons=true&theme=great-gatsby' alt='Top Langs'>
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=expjazz&count_private=true&show_icons=true&theme=great-gatsby'>
+</div>
+
+<div>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
