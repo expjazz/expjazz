@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## I'm a Musician and a Developer
 
 - 🔭 I live in Brazil
-- 🌱 I’m addicted to learning  🤣
+- 🌱 I’m love learning  🤣
 - 👯 I’m looking to collaborate with other developers
 - 🤯 I'm currently learning NextJs with apollo and GraphQl
 - ✌️ A part-time Technical Support Engineer at Microverse
