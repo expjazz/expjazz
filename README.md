@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 ## I'm a Musician and a Developer
 
 - 🔭 I live in Brazil
-- 🌱 I’m love learning  🤣
 - 👯 I’m looking to collaborate with other developers
 - 🤯 I'm currently learning NextJs with apollo and GraphQl
 - ✌️ A part-time Technical Support Engineer at Microverse
-- 🥅 2020 Goals: Record my solo album
+- 🥅 2020 Goals: Get my first full time job as a software developer
 - 🕵 Exploring new opportunities
 - ⚡ Fun fact: I love to play chess
 
